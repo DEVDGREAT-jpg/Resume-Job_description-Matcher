@@ -46,7 +46,7 @@ Resume–Job Matcher AI uses Natural Language Processing (NLP) and text similari
 
 ### Resume–Job Matching Results
 
-![Matching Results](screenshot/results.png)
+![Matching Results](screenshot/result.png)
 
 
 ## 🚀 Installation
